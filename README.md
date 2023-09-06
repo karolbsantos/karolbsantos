@@ -1,16 +1,15 @@
-### Hi there 👋
+### seja bem vindo 🫀🩹
 
-<!--
-**karolbsantos/karolbsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Karolyne
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Ultilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para entrar em contato comigo!!📫
+
+kaah8516@gmail.com
+
+@karolb_041
+
+![](https://media.tenor.com/pRBy9s162rkAAAAC/vicserra.gif)
